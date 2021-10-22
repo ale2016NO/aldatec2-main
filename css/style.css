@@ -1928,10 +1928,11 @@ margin-top: 40px
 /** end brand **/
 
 
-/** Whatsapp **/
+/** Whatsapp 
 .whatsapp {
-     image-resolution: 70%;
-     padding: 5% 0 0 30%;
+     image-resolution: 50%;
+     padding: 5% 0 0 60%;
+     
     }
     
     .qlwapp-text {
@@ -1943,7 +1944,7 @@ margin-top: 40px
     }
 
 /** end Whatsapp **/
-
+**/
 /** contact **/
 .contact {
      background: #ffffff;
