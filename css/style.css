@@ -113,7 +113,7 @@ h3 a,
 h4 a,
 h5 a,
 h6 a {
-     color: #7A7A7A;
+     color: #212121;
      text-decoration: none!important;
      opacity: 1
 }
@@ -270,7 +270,7 @@ button {
 }
 
 .white_heading_main h2 {
-     color: #fff;
+     color: #7A7A7A;
 }
 
 .small_main_heading {
