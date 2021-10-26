@@ -5,7 +5,7 @@ a.meanmenu-reveal {
 }
 
 .mean-container .mean-bar {
-     background: #f00;
+     background: rgb(122, 3, 3);
      float: left;
      min-height: 40px;
      padding: 5px 0;
